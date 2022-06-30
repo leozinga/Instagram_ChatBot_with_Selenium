@@ -33,3 +33,5 @@ important requirements:
 -> Python
 -> Last version of chromedriver
 -> Selenium lib
+
+Video about this code: https://youtu.be/Ngj0yy-CZSI
